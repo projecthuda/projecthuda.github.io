@@ -16,3 +16,6 @@ As our community and its projects evolve, so too does the need for new systems. 
 
 In our community, no system is set in stone. We embrace the principle that every system is subject to change and improvement. As we encounter challenges or inefficiencies within our existing systems, we are committed to iteratively refining them. This process is not conducted in isolation; every community member has a voice in how our systems evolve. When opinions or suggestions about a system are raised by members, they are not just heard; they are carefully considered. If a proposed change gains traction within the community, we are prepared to adapt our systems accordingly. This agile approach ensures that our systems are not just effective but also reflective of our community's collective wisdom and evolving needs.
 
+# Systems in Place
+
+[Voting System] (https://projecthuda.github.io/docs/voting.html)
