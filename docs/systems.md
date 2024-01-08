@@ -18,4 +18,4 @@ In our community, no system is set in stone. We embrace the principle that every
 
 # Systems in Place
 
-[Voting System] (https://projecthuda.github.io/docs/voting.html)
+[Voting System](https://projecthuda.github.io/docs/voting.html)
