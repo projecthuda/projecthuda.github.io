@@ -10,16 +10,14 @@ Our web application boasts an intelligent design, segmented into four key compon
 
 #### **1. Input Box**
 
-![Input Box](./layout-input-edit(marked).png)
+
 
 -   **Function**: Enables users to issue commands in a natural, intuitive language.
 -   **Ease of Use**: Commands mirror everyday language, making the system accessible and user-friendly.
 -   **Command Submission**: Simply press 'Enter' to send commands for processing.
 
 #### **2. Output Message**
-![Output Message](./layout-output1.png)
 
-![Output Message](./layout-output0.png)
 
 -   **Immediate Feedback**: Offers real-time, single-line feedback for each command.
 -   **Color-Coded Clarity**: Green for success, red for errors.
@@ -27,9 +25,7 @@ Our web application boasts an intelligent design, segmented into four key compon
 
 #### **3. Dynamic Area**
 
-![Dynamic area showing table](./layout-table.png)
 
-![Dynamic area showing scatter plot](./layout-scatter.png)
 
 -   **Interactive Canvas**: Visualize data through Table or Plot objects.
 -   **Contextual Command Suggestions**: Provides relevant command suggestions based on user activity.
