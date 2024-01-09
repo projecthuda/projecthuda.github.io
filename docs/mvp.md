@@ -1,6 +1,6 @@
 ﻿---
 layout: default
-title: MVP
+title: mvp
 nav_exclude: true
 ---
 
