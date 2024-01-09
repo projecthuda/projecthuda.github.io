@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Mvp
 nav_exclude: true
