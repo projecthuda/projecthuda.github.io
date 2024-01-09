@@ -3,6 +3,7 @@ layout: default
 title: MVP
 nav_exclude: true
 ---
+
 ### **Web Application Components Overview**
 
 Our web application boasts an intelligent design, segmented into four key components: the Input Box, Dynamic Area, Overview, and Output Message. Each is meticulously crafted to maximize user experience and efficiency.
