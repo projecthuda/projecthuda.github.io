@@ -35,7 +35,7 @@ In the table view, an array of intuitive helpers assists users in efficiently fi
 1.  **Color-Coded Cells**: Cells containing missing values are highlighted in a distinct color, light blue, for quick and easy identification.
 ![enter image description here](https://i.postimg.cc/GcB0H4JH/tabla.png)
     
-2.  **Conditional Formatting**: Gradient colors are applied across columns to visualize the range of values, effectively pinpointing outliers and illustrating data distributions. Gradient colors range from light yellow to dark red. The smallest value in the dataset is of light yellow color, and the highest is of dark red color. 
+2.  **Conditional Formatting**: Gradient colors are applied across columns to visualize the range of values, effectively pinpointing outliers and illustrating data distributions. Gradient colors range from light green to dark red. The smallest value in the dataset is of light yellow color, and the highest is of dark red color. 
 ![enter image description here](https://i.postimg.cc/SmM3hByM/colored-table-1.png)
     
 3.  **In-Table Summary Statistics**: Essential summary statistics, including mean, median, standard deviation, and the percentage of missing values, are displayed for a clicked row or a column.
