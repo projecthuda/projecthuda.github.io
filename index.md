@@ -10,9 +10,9 @@ Welcome to the Huda Community Homepage, your central hub for navigating through 
 
 ### Explore Our Core Philosophies
 
-1.  **[Community Vision](https://projecthuda.github.io/docs/voting.html)**: Dive into our Community Vision to understand the heart and soul of our collaborative efforts. Here, you'll grasp the ethos that drives our collective endeavor.
+1.  **[Community Vision](https://projecthuda.github.io/docs/community_vision.html)**: Dive into our Community Vision to understand the heart and soul of our collaborative efforts. Here, you'll grasp the ethos that drives our collective endeavor.
     
-2.  **[Project Vision](https://projecthuda.github.io/docs/roles.html)**: Our Project Vision outlines our objectives and provides a comprehensive list of the currently developed modules. This is your window into what we are building and the future we are shaping together.
+2.  **[Project Vision](https://projecthuda.github.io/docs/project_vision.html)**: Our Project Vision outlines our objectives and provides a comprehensive list of the currently developed modules. This is your window into what we are building and the future we are shaping together.
     
 
 ### Engage with Our Dynamic Systems
