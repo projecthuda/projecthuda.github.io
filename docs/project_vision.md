@@ -19,4 +19,4 @@ nav_order: 3
 
 ## Current Modules
 
-[Data Cleaning](https://projecthuda.github.io/docs/mvp.html)
+[Data Analysis](https://projecthuda.github.io/docs/data_analysis.html)
