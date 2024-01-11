@@ -18,7 +18,7 @@ In our community, no system is set in stone. We embrace the principle that every
 
 # Systems in Place
 
-[Voting System](https://projecthuda.github.io/docs/voting.html)
-[Roles System](https://projecthuda.github.io/docs/roles.html)
-[Feedback System](https://projecthuda.github.io/docs/feedback.html)
-[Module Registration System](https://projecthuda.github.io/docs/module_registration.html)
+-   [Voting System](https://projecthuda.github.io/docs/voting.html)
+-   [Roles System](https://projecthuda.github.io/docs/roles.html)
+-   [Feedback System](https://projecthuda.github.io/docs/feedback.html)
+-   [Module Registration System](https://projecthuda.github.io/docs/module_registration.html)
