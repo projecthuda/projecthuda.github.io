@@ -22,3 +22,10 @@ In our community, no system is set in stone. We embrace the principle that every
 -   [Roles System](https://projecthuda.github.io/docs/roles.html)
 -   [Feedback System](https://projecthuda.github.io/docs/feedback.html)
 -   [Module Registration System](https://projecthuda.github.io/docs/module_registration.html)
+-   [Developer](https://projecthuda.github.io/docs/developer.html)
+-   [Product Owner](https://projecthuda.github.io/docs/product_owner.html)
+-   [Expert Designer](https://projecthuda.github.io/docs/expert_designer.html)
+-   [Project Coordinator](https://projecthuda.github.io/docs/project_coordinator.html)
+-   [Organizer](https://projecthuda.github.io/docs/organizer.html)
+-   [Technical Officer](https://projecthuda.github.io/docs/technical_officer.html)
+ 
