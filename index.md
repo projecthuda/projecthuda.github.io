@@ -23,7 +23,7 @@ Welcome to the Huda Community Homepage, your central hub for navigating through 
     
 3.  **[Feedback System](https://projecthuda.github.io/docs/feedback.html)**: Your insights are invaluable. Share your thoughts and suggestions through our Feedback System to contribute to the continuous improvement of our community and projects.
     
-4.  **[Module Registration System](https://projecthuda.github.io/docs/module_registration.html)**: Got an idea for a new module? Bring it to life! Our Module Registration System guides you through the process of proposing and developing new modules.
+4.  **[Development Guidelines System](https://projecthuda.github.io/docs/development_guidelines.html)**: Got an idea for a new module? Bring it to life! Our Development Guidelines System guides you through the process of proposing and developing new modules.
     
 
 ### Comprehensive Access to All Systems
