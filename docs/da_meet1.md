@@ -12,7 +12,7 @@ Discuss and outline the key components of Milestone 1.
 
 ### Key Components of Milestone 1:
 
-1.  **User Authentication**: Implementation of a secure login system for users.
+1.  **User Authentication**: 
 
 2.  **Import and Upload of Time Series Datasets**:
 
