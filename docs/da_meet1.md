@@ -13,17 +13,11 @@ Discuss and outline the key components of Milestone 1.
 ### Key Components of Milestone 1:
 
 1.  **User Authentication**: Implementation of a secure login system for users.
-    
-    -   Discuss various authentication methods and decide on the most suitable one.
-    -   Ensure compliance with data privacy laws.
+
 2.  **Import and Upload of Time Series Datasets**:
-    
-    -   Enable users to import and upload time series data into the UI.
-    -   Discuss supported file formats and size limitations.
+
 3.  **Automatic Cleaning During Upload**:
-    
-    -   Implement an automatic data cleaning process as part of the upload.
-    -   Define the types of cleaning to be performed (e.g., handling missing values, normalizing data).
+
 
 
 ----------
