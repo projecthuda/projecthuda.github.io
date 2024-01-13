@@ -4,8 +4,6 @@ title: Roles
 nav_exclude: true
 ---
 
-
-
 ## Introduction to Our Project's Role System: Facilitating Expertise and Coordination
 
 In our project, the role system is designed to acknowledge and leverage the diverse expertise of our team members. In a software development environment, recognizing each person's skills and knowledge is crucial for success. This system is instrumental in forming teams that encapsulate all the necessary competencies to successfully complete a project. Understanding the strengths and specializations of each team member allows us to create balanced, efficient teams capable of handling every facet of software development.
@@ -14,7 +12,7 @@ In our project, the role system is designed to acknowledge and leverage the dive
 
 Our project structure revolves around several key roles, each contributing their unique skills and knowledge:
 
-1.  **[Technical Officer](https://projecthuda.github.io/docs/otechnical_officer.html)**: The strategists who oversee the technical direction of the project, ensuring alignment with the project's goals.
+1.  **[Technical Officer](https://projecthuda.github.io/docs/technical_officer.html)**: The strategists who oversee the technical direction of the project, ensuring alignment with the project's goals.
     
 2.  **[Organizer](https://projecthuda.github.io/docs/organizer.html)**: These individuals are pivotal in managing tasks, coordinating activities, and ensuring the project stays on track.
     
