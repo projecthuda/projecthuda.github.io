@@ -35,13 +35,8 @@ In addition to visualization, the module will offer a unique 'Form-Mode'. This m
 # Timeline and Documents
 
 -   10.1.2024. - [MVP](https://projecthuda.github.io/docs/mvp.html) fully released, detailing on all the high level module requirements
+-   13.1.2024. - Team meeting on Milestone 1 with the intention of creating a task list for developing all the functionalities contained in Milestone 1 [Meeting Notes](https://projecthuda.github.io/docs/da_meet1.html)
 
-### Roadmap
-
--   12.1.2024. - Team meeting on Milestone 1 with the intention of creating a task list for developing all the functionalities contained in Milestone 1
--   14.1.2024. - Development start
--   End of January - Completing Milestone 1 and planning for Milestone 2
--   End of February - MVP Release
 
 # Contributors
 
