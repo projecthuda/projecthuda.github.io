@@ -20,7 +20,7 @@ Once the Project Description is prepared, the Product Owner schedules an introdu
 
 ### Registration for Roles
 
-Following the introduction meeting, the project opens up for role registration. Team members can sign up for various roles, such as Developer, Expert Designer, or Organizer, based on their skills and interests. This Role Call is vital for forming a well-rounded team equipped to handle the project's needs.
+Following the introduction meeting, the project opens up for role registration. Team members can sign up for various roles, such as Developer, Expert Advisor, or Organizer, based on their skills and interests. This Role Call is vital for forming a well-rounded team equipped to handle the project's needs.
 
 ----------
 
@@ -28,7 +28,7 @@ Following the introduction meeting, the project opens up for role registration. 
 
 ### Collaborative Planning
 
-The Technical Officer, in collaboration with Developers and Expert Designers, undertakes the task of breaking down the development phase into manageable milestones. This step includes the creation of a comprehensive task list for the first milestone, ensuring alignment with the Design Guidelines.
+The Technical Officer, in collaboration with Developers and Expert Advisors, undertakes the task of breaking down the development phase into manageable milestones. This step includes the creation of a comprehensive task list for the first milestone, ensuring alignment with the Design Guidelines.
 
 ----------
 
