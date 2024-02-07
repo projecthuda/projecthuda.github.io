@@ -19,4 +19,8 @@ nav_order: 3
 
 ## Current Modules
 
-[Data Analysis](https://projecthuda.github.io/docs/data_analysis.html)
+1.  **[Data Analysis](https://projecthuda.github.io/docs/data_analysis.html)**: Read more about the first module of our application, the Data Analysis module.
+    
+2.  **[Website](https://projecthuda.github.io/docs/website.html)** Information about this Website, how to contribute, and future plans.
+    
+3.  **[Discord](https://projecthuda.github.io/docs/discord.html)** For anyone interested in contributing to our Discord server, such as planning events or developing a Discord Bot.
