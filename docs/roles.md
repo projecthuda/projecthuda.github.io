@@ -18,7 +18,7 @@ Our project structure revolves around several key roles, each contributing their
     
 3.  **[Project Coordinator](https://projecthuda.github.io/docs/project_coordinator.html)**: Responsible for facilitating meetings and controlling the general flow of the project.
     
-4.  **[Expert Designer](https://projecthuda.github.io/docs/expert_designer.html)**: Specialists who provide crucial insights into software architecture and design, ensuring technical and aesthetic quality.
+4.  **[Expert Advisor](https://projecthuda.github.io/docs/expert_advisor.html)**: Specialists who provide crucial insights into software architecture and design, ensuring technical quality.
     
 5.  **[Developer](https://projecthuda.github.io/docs/developer.html)**: The core team members who bring our software to life through their coding expertise.
     
@@ -26,6 +26,14 @@ Our project structure revolves around several key roles, each contributing their
     
 
 Team members are encouraged to explore and take on roles that align with their interests and skills, contributing to various aspects of our project.
+
+## Special Roles
+
+Beyond working on the project application, there are several other roles needed for the functioning of the Community:
+
+1.  **[Discord Contributor](https://projecthuda.github.io/docs/discord_contributor.html)**: Contributors that work on enhancing our Discord server. More on [Discord](https://projecthuda.github.io/docs/discord.html).
+
+2.  **[Website Contributor](https://projecthuda.github.io/docs/website_contributor.html)**: Contributors that work on maintaining the developing this website. More on [Website](https://projecthuda.github.io/docs/website.html)
 
 ## Embracing Multiple Roles: A Multifaceted Approach
 

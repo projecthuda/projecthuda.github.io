@@ -26,6 +26,14 @@ Welcome to the Huda Community Homepage, your central hub for navigating through 
 4.  **[Development Guidelines System](https://projecthuda.github.io/docs/development_guidelines.html)**: Got an idea for a new module? Bring it to life! Our Development Guidelines System guides you through the process of proposing and developing new modules.
     
 
+### Areas to Contribute
+
+1.  **[Data Analysis](https://projecthuda.github.io/docs/data_analysis.html)**: Read more about the first module of our application, the Data Analysis module.
+    
+2.  **[Website](https://projecthuda.github.io/docs/website.html)** Information about this Website, how to contribute, and future plans.
+    
+3.  **[Discord](https://projecthuda.github.io/docs/discord.html)** For anyone interested in contributing to our Discord server, such as planning events or developing a Discord Bot.
+
 ### Comprehensive Access to All Systems
 
 -   **[Systems Overview](https://projecthuda.github.io/docs/systems.html)**: For a holistic view of all the systems at play within our community, visit our Systems Overview page. Here, you'll find links to each system, offering you a one-stop destination to explore and engage with every aspect of our community.
